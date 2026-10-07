@@ -1,0 +1,6 @@
+{
+  "name": "Rational Lab D – Tâm Đối Xứng & Cực Trị",
+  "description": "Phòng thí nghiệm tương tác chuyên sâu khảo sát hàm số phân thức bậc hai trên bậc nhất: đạo hàm, cực trị, tiệm cận, bảng biến thiên và tâm đối xứng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
